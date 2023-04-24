@@ -261,3 +261,4 @@ Interactive Fitness Goals: The user's Fitbit data shows that they engage in mode
 
 Optimal Hydration Monitoring: The Spring water bottle already tracks daily water intake, but Bellabeat could expand on this feature by providing personalized recommendations on how much water each user should be drinking based on their activity levels and other health data.
 
+Optimization of Data Tracking: As most of the data provided were manual inputs, it would promote more efficiency of Bellabeats efficacy by opting for more autonomous tracking. In which case fosters less incongruencies.
